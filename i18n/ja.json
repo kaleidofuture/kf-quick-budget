@@ -29,5 +29,21 @@
   "month_label": "月",
   "download_result": "分析結果CSVをダウンロード",
   "no_file": "CSV明細ファイルをアップロードしてください。",
-  "desktop_recommended": "このアプリはデスクトップでのご利用を推奨しています"
+  "desktop_recommended": "このアプリはデスクトップでのご利用を推奨しています",
+  "mode_label": "分析モード",
+  "mode_detailed": "詳細カテゴリ（10分類）",
+  "mode_simple": "ざっくり3分類（固定費/変動費/貯蓄）",
+  "budget_setting_title": "予算設定（任意）",
+  "budget_setting_help": "カテゴリごとの月間予算を設定すると、分析結果で残額・超過額を表示します。0のままだとスキップされます。",
+  "budget_remaining": "あと{amount}円使える",
+  "budget_over": "{amount}円オーバー",
+  "summary_card_title": "ざっくりサマリー",
+  "top3_categories": "支出TOP3",
+  "mom_label": "前月比",
+  "mom_change": "{prev} → {curr}: {diff}円（{pct}%）",
+  "simple_breakdown_title": "固定費/変動費 内訳",
+  "savings_tip_high_variable": "変動費が全体の{pct}%を占めています。見直し余地が大きいかもしれません。",
+  "savings_tip_moderate": "変動費は全体の{pct}%です。バランスは悪くないですが、もう少し抑えられるかも。",
+  "savings_tip_good": "変動費は全体の{pct}%に抑えられています。良いバランスです。",
+  "simple_detail_expander": "どのカテゴリが固定費/変動費に含まれる？"
 }

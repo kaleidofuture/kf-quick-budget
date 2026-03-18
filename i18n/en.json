@@ -29,5 +29,21 @@
   "month_label": "Month",
   "download_result": "Download Analysis CSV",
   "no_file": "Please upload a CSV statement file.",
-  "desktop_recommended": "This app is optimized for desktop use"
+  "desktop_recommended": "This app is optimized for desktop use",
+  "mode_label": "Analysis Mode",
+  "mode_detailed": "Detailed Categories (10 types)",
+  "mode_simple": "Simple 3-Category (Fixed/Variable/Savings)",
+  "budget_setting_title": "Budget Setting (Optional)",
+  "budget_setting_help": "Set a monthly budget per category to see remaining/over amounts in the results. Leave at 0 to skip.",
+  "budget_remaining": "{amount} remaining",
+  "budget_over": "{amount} over budget",
+  "summary_card_title": "Quick Summary",
+  "top3_categories": "Top 3 Categories",
+  "mom_label": "Month-over-Month",
+  "mom_change": "{prev} to {curr}: {diff} ({pct}%)",
+  "simple_breakdown_title": "Fixed / Variable Breakdown",
+  "savings_tip_high_variable": "Variable costs account for {pct}% of total spending. There may be significant room to cut back.",
+  "savings_tip_moderate": "Variable costs are {pct}% of total. Not bad, but there may be room to optimize.",
+  "savings_tip_good": "Variable costs are only {pct}% of total. Great balance!",
+  "simple_detail_expander": "Which categories are Fixed vs Variable?"
 }
