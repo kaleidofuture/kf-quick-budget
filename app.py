@@ -483,4 +483,4 @@ else:
     st.info(t("no_file"))
 
 # --- Footer ---
-render_footer(libraries=["DuckDB"])
+render_footer(libraries=["DuckDB"], repo_name="kf-quick-budget")
