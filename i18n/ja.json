@@ -45,5 +45,6 @@
   "savings_tip_high_variable": "変動費が全体の{pct}%を占めています。見直し余地が大きいかもしれません。",
   "savings_tip_moderate": "変動費は全体の{pct}%です。バランスは悪くないですが、もう少し抑えられるかも。",
   "savings_tip_good": "変動費は全体の{pct}%に抑えられています。良いバランスです。",
-  "simple_detail_expander": "どのカテゴリが固定費/変動費に含まれる？"
+  "simple_detail_expander": "どのカテゴリが固定費/変動費に含まれる？",
+  "report_issue": "不具合を報告"
 }

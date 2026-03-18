@@ -45,5 +45,6 @@
   "savings_tip_high_variable": "Variable costs account for {pct}% of total spending. There may be significant room to cut back.",
   "savings_tip_moderate": "Variable costs are {pct}% of total. Not bad, but there may be room to optimize.",
   "savings_tip_good": "Variable costs are only {pct}% of total. Great balance!",
-  "simple_detail_expander": "Which categories are Fixed vs Variable?"
+  "simple_detail_expander": "Which categories are Fixed vs Variable?",
+  "report_issue": "Report an issue"
 }
