@@ -28,5 +28,6 @@
   "monthly_breakdown": "Monthly Trend",
   "month_label": "Month",
   "download_result": "Download Analysis CSV",
-  "no_file": "Please upload a CSV statement file."
+  "no_file": "Please upload a CSV statement file.",
+  "desktop_recommended": "This app is optimized for desktop use"
 }

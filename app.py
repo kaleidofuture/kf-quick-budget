@@ -18,6 +18,7 @@ import duckdb
 
 # --- Header ---
 render_header()
+st.info("💻 " + t("desktop_recommended"))
 
 # --- Category classification rules ---
 CATEGORY_RULES_JA = {

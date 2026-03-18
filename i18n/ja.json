@@ -28,5 +28,6 @@
   "monthly_breakdown": "月別推移",
   "month_label": "月",
   "download_result": "分析結果CSVをダウンロード",
-  "no_file": "CSV明細ファイルをアップロードしてください。"
+  "no_file": "CSV明細ファイルをアップロードしてください。",
+  "desktop_recommended": "このアプリはデスクトップでのご利用を推奨しています"
 }
