@@ -1,3 +1,14 @@
+---
+title: kf-quick-budget
+emoji: 🚀
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.44.1
+app_file: app.py
+pinned: false
+---
+
 # KF-QuickBudget
 
 > 銀行・カードCSVを瞬時に分析して家計を見える化する。
